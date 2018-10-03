@@ -1,0 +1,14 @@
+C:\VS\lsnjhd\lsnjhd-api\lsnjhd-api\bin\Debug\netcoreapp2.2\lsnjhd-api.deps.json
+C:\VS\lsnjhd\lsnjhd-api\lsnjhd-api\bin\Debug\netcoreapp2.2\lsnjhd-api.runtimeconfig.json
+C:\VS\lsnjhd\lsnjhd-api\lsnjhd-api\bin\Debug\netcoreapp2.2\lsnjhd-api.runtimeconfig.dev.json
+C:\VS\lsnjhd\lsnjhd-api\lsnjhd-api\bin\Debug\netcoreapp2.2\lsnjhd-api.dll
+C:\VS\lsnjhd\lsnjhd-api\lsnjhd-api\bin\Debug\netcoreapp2.2\lsnjhd-api.pdb
+C:\VS\lsnjhd\lsnjhd-api\lsnjhd-api\obj\Debug\netcoreapp2.2\lsnjhd-api.csprojAssemblyReference.cache
+C:\VS\lsnjhd\lsnjhd-api\lsnjhd-api\obj\Debug\netcoreapp2.2\lsnjhd-api.csproj.CoreCompileInputs.cache
+C:\VS\lsnjhd\lsnjhd-api\lsnjhd-api\obj\Debug\netcoreapp2.2\lsnjhd-api.RazorAssemblyInfo.cache
+C:\VS\lsnjhd\lsnjhd-api\lsnjhd-api\obj\Debug\netcoreapp2.2\lsnjhd-api.RazorAssemblyInfo.cs
+C:\VS\lsnjhd\lsnjhd-api\lsnjhd-api\obj\Debug\netcoreapp2.2\lsnjhd-api.AssemblyInfoInputs.cache
+C:\VS\lsnjhd\lsnjhd-api\lsnjhd-api\obj\Debug\netcoreapp2.2\lsnjhd-api.AssemblyInfo.cs
+C:\VS\lsnjhd\lsnjhd-api\lsnjhd-api\obj\Debug\netcoreapp2.2\lsnjhd-api.RazorTargetAssemblyInfo.cache
+C:\VS\lsnjhd\lsnjhd-api\lsnjhd-api\obj\Debug\netcoreapp2.2\lsnjhd-api.dll
+C:\VS\lsnjhd\lsnjhd-api\lsnjhd-api\obj\Debug\netcoreapp2.2\lsnjhd-api.pdb
